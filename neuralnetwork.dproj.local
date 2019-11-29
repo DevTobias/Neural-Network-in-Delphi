@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.292,=C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung - Kopie\UVector.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung\neuralnetwork.dproj=C:\Users\Tobias\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung\UGui.dfm=C:\Users\Tobias\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung\UNeuralNetwork.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung\UDataLoader.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,=C:\Users\Tobias\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\Tobias\Desktop\Informatik Projekt\Neuronales Netzwerk - Texterkennung - Kopie - Kopie\UReader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,=C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung\UDataLoader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,C:\Users\Tobias\Desktop\Neuronales Netzwerk - Texterkennung\UGui.pas=C:\Users\Tobias\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
